@@ -1,0 +1,2 @@
+C:\Users\janaschroeder\Downloads\Eleven Fifty Academy\ElevenFiftyProjects\Gold Badge Challenges\Komodo_Claims_Repo\Claims_Tests\obj\Debug\Claims_Tests.csprojAssemblyReference.cache
+C:\Users\janaschroeder\Downloads\Eleven Fifty Academy\ElevenFiftyProjects\Gold Badge Challenges\Komodo_Claims_Repo\Claims_Tests\obj\Debug\Claims_Tests.csproj.CoreCompileInputs.cache
